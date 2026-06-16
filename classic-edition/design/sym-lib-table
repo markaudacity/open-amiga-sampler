@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "open-amiga-sampler-cache") (type "Legacy") (uri "/Users/audi/Library/CloudStorage/Nextcloud-markaudacity@nx98784.your-storageshare.de/ Retrocomputing/Amiga/_Tech Dev/open-amiga-sampler/classic-edition/design/open-amiga-sampler-cache.lib") (options "") (descr "Legacy project cache library"))
+)
