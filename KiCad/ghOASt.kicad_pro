@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 3.48,
-          "width": 1.846667
+          "drill": 3.81,
+          "height": 3.81,
+          "width": 3.81
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -680,6 +680,12 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Date",
+          "name": "Date",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -738,13 +744,21 @@
         "uuid": "5b359838-9716-4195-9897-a1e2efcf02a7"
       }
     ],
-    "used_designators": "#PWR1,J1",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
     [
       "5b359838-9716-4195-9897-a1e2efcf02a7",
-      "open-amiga-sampler"
+      "ghOASt"
+    ],
+    [
+      "c09c6ff9-5af3-48a1-9a39-acab5cf2d2ca",
+      "front end"
+    ],
+    [
+      "595c49b6-9384-4d6a-bfdc-183c7c66b33a",
+      "antialias"
     ]
   ],
   "text_variables": {},
