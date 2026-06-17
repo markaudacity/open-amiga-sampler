@@ -504,7 +504,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "open-amiga-sampler.kicad_pro",
+    "filename": "ghOASt.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -733,8 +733,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "open-amiga-sampler.kicad_sch",
-        "name": "open-amiga-sampler",
+        "filename": "ghOASt.kicad_sch",
+        "name": "ghOASt",
         "uuid": "5b359838-9716-4195-9897-a1e2efcf02a7"
       }
     ],
