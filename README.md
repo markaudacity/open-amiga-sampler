@@ -1,20 +1,19 @@
-# ghOASt: a spectre is haunting open-source retro sampling
+# *ghOASt: a spectre is haunting open-source retro sampling*
+
+![ghOASt](img/ghoast_v1.1_ortho.png)
 
 ## Open source schematics, parts lists and documentation for building a generic 8bit/mono Amiga parallel port sound sampler
 
-![samplers](img/samplers.jpg)
-
+*note: the following info is from the original repo and I claim no credit for it* 
 
 Amiga parallel port sound samplers are simple hardware devices from the late 80s/early 90s which allowed users to digitally record audio to their home computer and represented a revolution in DIY music production. They were once cheap and ubiquitous, but they're increasingly expensive and hard to find as the popularity of retro computing continues to rise.
 
 OAS is an open source PCB and case design for a cartridge-style mono sampler geared towards use with Soundtracker and Protracker-style software. It is easy to make, cheap to produce, and thanks to its built in preamp with hardware gain control it can deliver higher quality results than the average vintage sampler.
 
-Please read the wiki for more information!
-
-### [OAS Wiki Home](https://github.com/echolevel/open-amiga-sampler/wiki)
+Check out the Wiki for answers to most hardware questions:
+## [OAS Wiki](https://github.com/echolevel/open-amiga-sampler/wiki)
 
 ### Background
-
 ***
 * [What are Amiga samplers?](https://github.com/echolevel/open-amiga-sampler/wiki/What-are-Amiga-samplers%3F)
 * [Why build more?](https://github.com/echolevel/open-amiga-sampler/wiki/Why-build-more%3F)
